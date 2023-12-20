@@ -8,6 +8,7 @@ image: assets/images/rr/default2.png
 showhomepage: true
 ---
 
+
 After years of eager anticipation, part evolutions are finally making their way to Axie Infinity, promising a transformative experience for players and collectors alike. The brainchild of renowned designer Masamune, these evolutions aim to infuse axies with power progression and vertical growth.
 Masamune's artistic vision takes center stage in the design of these part evolutions, as revealed in his recent  <a href="https://blog.axieinfinity.com/p/dear-lunacia">letter to the community</a>  that delves into the creative process. He emphasizes the importance of incorporating seemingly "ugly" parts to enhance the beauty of the overall design, adding depth and character to each axie.
 
@@ -22,3 +23,4 @@ As part evolutions become a reality, Axie Infinity is poised for a groundbreakin
 Check out the amazing art on your favorite axies with this :  <a href="https://kendama.vercel.app/axie-stage-preview">Axie Stage 2 Preview</a>
 
 To catch the full conversation between Jihoz and the man, the myth, the legend Gila, follow the link to the space on Twitter:  <a href="https://twitter.com/i/spaces/1mrGmyDLrMWGy?s=20">Link to space</a>
+
