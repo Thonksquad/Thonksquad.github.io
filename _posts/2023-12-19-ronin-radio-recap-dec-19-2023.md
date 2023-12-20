@@ -8,4 +8,4 @@ image: assets/images/rr/default2.png
 showhomepage: true
 ---
 
-Hello world, I"M ON GIT!
+Testing, nothing important here
