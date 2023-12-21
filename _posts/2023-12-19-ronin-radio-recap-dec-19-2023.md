@@ -4,7 +4,7 @@ title:  "The Ronin Radio - Dec 19, 2023"
 categories: [ RoninRadio ]
 author: tanjimon
 summary: true
-image: assets/images/rr/default2.png
+image: assets/images/rr/ronin-radio-dec-19-2023.png
 showhomepage: true
 ---
 
@@ -22,6 +22,6 @@ As part evolutions become a reality, Axie Infinity is poised for a groundbreakin
 
 Check out the amazing art on your favorite axies with this :  <a href="https://kendama.vercel.app/axie-stage-preview">Axie Stage 2 Preview</a>
 
-To catch the full conversation between Jihoz and the man, the myth, the legend Gila, follow the link to the space on Twitter:  <a href="https://twitter.com/i/spaces/1mrGmyDLrMWGy?s=20">Link to space</a>
+To catch the full conversation between ChuckFresco, Grawrz.ron, Jihoz.ron and the man, the myth, the legend Gila, follow the link to the space on Twitter:  <a href="https://twitter.com/i/spaces/1mrGmyDLrMWGy?s=20">Link to space</a>
 
 
