@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: opinion
 title:  "Axie and Ragnarok - Is history repeating?"
 categories: [ Opinion ]
 author: grawrz
@@ -11,7 +11,7 @@ Since my last post about MMOs and Axie market, I started thinking about other si
 
 In 2003, pRO (Philippine Ragnarok Online) opened its servers and became the first widespread MMORPG in the Philippines. The game only had one server at the time, called the Chaos server. Chaos is the main character of the Ragnarok Manhwa and it was also an accurate description of what it was like playing on the server.
 
-![chaos-manhwa](/assets/images/article/chaos-ragnarok.jpg 'Chaos on the cover of the Ragnarok Manhwa')
+![chaos-manhwa](/assets/images/article/chaos-ragnarok.jpg 'Chaos on the cover of the Ragnarok Manhwa - credit to wikipedia')
 
 There was just too many players. Thousands of gamers wanted to play and the server couldn't handle it. Lag was constant. Players crowded popular areas. Some maps even stopped functioning entirely, trapping the characters that were inside them.
 
