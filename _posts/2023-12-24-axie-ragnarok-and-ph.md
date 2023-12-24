@@ -15,7 +15,7 @@ In 2003, pRO (Philippine Ragnarok Online) opened its servers and became the firs
 
 There was just too many players. Thousands of gamers wanted to play and the server couldn't handle it. Lag was constant. Players crowded popular areas. Some maps even stopped functioning entirely, trapping the characters that were inside them.
 
-![Prontera full of shops](/assets/images/article/prontera.jpg 'Prontera - credit to kimmania.wordpress.com')
+![Prontera full of shops](/assets/images/article/prontera.jpg 'Prontera - credit to Inevitable01, my friend and guildmaster from pRO')
 
 This reminded me of what it was like playing Axie Infinity in 2021 at it's peak. The player base spiked in a way that Sky Mavis couldn't have anticipated and it caused the game to be unplayable. I couldn't even finish my 20 energy. Complaints filled the Axie Discord and memes started surfacing. Too many people just wanted to play, just like in the Chaos server of pRO.
 
