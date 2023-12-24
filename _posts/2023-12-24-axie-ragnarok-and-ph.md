@@ -29,4 +29,4 @@ Meanwhile, Sky Mavis chose to scale vertically. They were able to increase the c
 
 ![Jihoz announcement](/assets/images/article/jihoz-announcement-july-2021.png 'Jihoz announcement about increasing capacity in June 2021')
 
-Axie is doing what Ragnarok did 20 years ago. Axie and Web3 is mirroring the behavior of MMORPGs 20 years ago. We can look at events then to have an idea of how people and the market will move. We can treat it like a map. Will Web3 mirror the same trends that MMORPGs 20 years ago? Either way, we are personally witnessing history occurring.
+Axie is doing what Ragnarok did 20 years ago. Axie and Web3 is mirroring the behavior of MMORPGs 20 years ago. We can look at events then to have an idea of how people and the market will move. We can treat it like a map. Will Web3 continue to mirror the same trends that MMORPGs 20 years ago? Either way, we are personally witnessing history occurring.
