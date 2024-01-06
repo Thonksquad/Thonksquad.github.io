@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Ronin Radio - Jan 02, 2024"
+title:  "The Ronin Radio - Jan 04, 2024"
 categories: [ RoninRadio ]
 author: tanjimon
 summary: true
