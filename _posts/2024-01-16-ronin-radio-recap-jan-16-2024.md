@@ -5,7 +5,6 @@ categories: [ RoninRadio ]
 author: tanjimon
 summary: true
 image: assets/images/rr/ronin-radio-jan-16-2024.png
-showhomepage: true
 ---
 
 The Ownership Narrative:
