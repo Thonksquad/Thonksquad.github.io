@@ -1,6 +1,6 @@
 title: "Guildless Gamers"
 email: theguildlessgamers@gmail.com
-timezone: UTC
+timezone: Etc/GMT
 baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/logo.svg'
@@ -19,7 +19,7 @@ kramdown:
     disable: true
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 ganalytics: GTM-PDQLS3RR
 
 icon-size: 35
