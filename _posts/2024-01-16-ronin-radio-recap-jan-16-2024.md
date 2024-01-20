@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Ronin Radio - Jan 16, 2024"
+title:  "The Ronin Radio - Jan 11, 2024"
 categories: [ RoninRadio ]
 author: tanjimon
 summary: true
-image: assets/images/rr/ronin-radio-jan-16-2024.png
+image: assets/images/rr/ronin-radio-jan-11-2024.png
 showhomepage: true
 ---
 
