@@ -4,7 +4,7 @@ title:  "The Ronin Radio - Jan 25, 2024"
 categories: [ RoninRadio ]
 author: tanjimon
 summary: true
-image: assets/images/rr/ronin-radio-jan-25-2024.png
+image: assets/images/rr/default3.jpg
 showhomepage: true
 ---
 
