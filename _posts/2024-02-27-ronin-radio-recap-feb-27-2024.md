@@ -4,7 +4,7 @@ title:  "The Ronin Radio - Feb 27, 2024"
 categories: [ RoninRadio ]
 author: tanjimon
 summary: true
-image: assets/images/rr/default2.jpg
+image: assets/images/rr/default2.png
 showhomepage: true
 ---
 
